@@ -1,0 +1,2 @@
+# ZCasino
+Short Python project.
